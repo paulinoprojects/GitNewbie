@@ -11,7 +11,7 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
 - <b>Editor</b> -> Integrated Development Environment (IDE/SDK) or a text editor to write your code
 - <b>Repositroy (repo)</b> -> project or folder where your projects are kept
 
-# Git Commands & Collboration Workflow
+# Git Commands & Workflow
 - <b>clone</b> -> Bring a repo that is hosted somewhere like GitHub into a folder on your local machine
 - <b>add</b> -> Track your files and changes in Git
 - <b>commit</b> -> Save your files in Git
