@@ -10,6 +10,10 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
 - <b>cd</b> -> change directory
 - <b>Editor</b> -> Integrated Development Environment (IDE/SDK) or a text editor to write your code
 - <b>Repositroy (repo)</b> -> project or folder where your projects are kept
+- <b>Branches </b> -> 
+  -   A branch is a parallel version of a repo, but does not affect the primary (main/master) branch.
+  -   Allows you to work without disrupting live version or to revert back to original if you mess up.
+  -   When you made your changes, you can merge your branch into the primary branch to publish your changes
 
 # Git Commands & Workflow
 - <b>clone</b> -> Bring a repo that is hosted somewhere like GitHub into a folder on your local machine
