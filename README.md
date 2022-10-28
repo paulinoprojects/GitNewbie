@@ -15,12 +15,12 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
   -   When you made your changes, you can merge your branch into the primary branch to publish your changes
 
 # Git Commands & Workflow
-- <b>clone</b> -> Bring a repo that is hosted somewhere like GitHub into a folder on your local machine
-- <b>init</b> -> Creates new repo (.git cirectory with subdirectories for objects, files, tags, etc.) An initial branch. 
-- <b>add</b> -> Track your files and changes in Git
-- <b>commit</b> -> Save your files in Git
-- <b>push</b> -> Upload Git commits to a remote repo, like GitHub, BitBucket, GitLab
-- <b>pull</b> -> Download changes from remote repo to your local machine, opposite of push command
+- <b>git clone</b> -> Bring a repo that is hosted somewhere like GitHub into a folder on your local machine
+- <b>git init</b> -> Creates new repo (.git cirectory with subdirectories for objects, files, tags, etc.) An initial branch. 
+- <b>git add</b> -> Track your files and changes in Git
+- <b>git commit</b> -> Save your files in Git
+- <b>git push</b> -> Upload Git commits to a remote repo, like GitHub, BitBucket, GitLab
+- <b>git pull</b> -> Download changes from remote repo to your local machine, opposite of push command
 
 
 ---------------------------------------
