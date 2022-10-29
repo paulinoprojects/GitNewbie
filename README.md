@@ -13,8 +13,8 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
   -   A branch is a parallel version of a repo, but does not affect the primary (main/master) branch.
   -   Allows you to work without disrupting live version or to revert back to original if you mess up.
   -   When you made your changes, you can merge your branch into the primary branch to publish your changes
-- Working Directory -> Your current work
-- Staging Area -> <b>git add</b> command will push working directory code to staging area for review.
+- <b>Working Directory</b> -> Your current work
+- <b>Staging Area</b> -> <b>git add</b> command will push working directory code to staging area for review.
 
 
 # Git Commands & Workflow
@@ -27,8 +27,8 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
 
 
 ---------------------------------------
-To start a new repo on your local machine :\
-$ cd /path/to/my/codebase \ 
-$ git init - creates your repo in the git \ 
-$ git add -m *insert important message* puts code in staging area \
-$ git commit -m *insert important message* push code to main branch on Github\
+To start a new repo on your local machine:\
+  1. $ cd /path/to/my/codebase
+  2. $ git init - creates your repo in the git
+  3. $ git add -m *insert important message* puts code in staging area
+  4. $ git commit -m *insert important message* push code to main branch on Github
