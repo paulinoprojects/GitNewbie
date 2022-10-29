@@ -13,6 +13,7 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
   -   A branch is a parallel version of a repo, but does not affect the primary (main/master) branch.
   -   Allows you to work without disrupting live version or to revert back to original if you mess up.
   -   When you made your changes, you can merge your branch into the primary branch to publish your changes
+  -   Remove branch refers to GitHub to view <b>git remote -v </b>
 - <b>Working Directory</b> -> Your current work
 - <b>Staging Area</b> -> <b>git add</b> command will push working directory code to staging area for review.
 
@@ -21,9 +22,11 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
 - <b>git clone</b> -> Brings/pulls a repo that is hosted somewhere like GitHub into a folder on your local machine
 - <b>git init</b> -> Creates new repo on you local machine (.git directory with subdirectories for objects, files, tags, etc.) An initial branch. 
 - <b>git add</b> -> Track your files and changes in Git and adds code to staging area.
-- <b>git commit</b> -> from the staging area, commits/push your files in the main branch on Github.
+- <b>git commit</b> -> from the staging area, commits/push your files in the main branch.
 - <b>git push</b> -> Upload Git commits to a remote repo, like GitHub, BitBucket, GitLab
 - <b>git pull</b> -> Download remote repo to your local machine, opposite of push command
+- <b>git log</b> -> shows a list of all the commits made to a repo, hash, metadata, etc
+- <b>git pull</b> -> 
 
 
 ---------------------------------------
