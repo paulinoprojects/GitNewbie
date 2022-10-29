@@ -27,8 +27,8 @@ Install Git, then In Windows, Linux, MacOS command line, use <b><i> "git" </b></
 
 
 ---------------------------------------
-To start a new repo on your local machine:\
-  1. $ cd /path/to/my/codebase
-  2. $ git init - creates your repo in the git
-  3. $ git add -m *insert important message* puts code in staging area
-  4. $ git commit -m *insert important message* push code to main branch on Github
+<b>To start a new repo on your local machine:</b>\
+  $ cd /path/to/my/codebase\
+  $ git init - creates your repo in the git\
+  $ git add -m *insert important message* puts code in staging area\
+  $ git commit -m *insert important message* push code to main branch on Github
